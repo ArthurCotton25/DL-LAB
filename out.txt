@@ -1,0 +1,7 @@
+optimizer=
+loss=categorical_crossentropy
+metrics=accuracy
+Epochs : 3
+batch_size:32
+validation_data:true
+val_loss:True
